@@ -33,7 +33,6 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
-Backend akan berjalan di `http://127.0.0.1:8000`.
 
 ### 2. Setup Frontend (UI Web)
 Buka terminal baru yang lain, lalu jalankan perintah berikut:
@@ -42,6 +41,6 @@ cd frontend
 npm install
 npm run dev
 ```
-Frontend akan berjalan di `http://localhost:5173`. 
+Frontend akan berjalan di https://wishmeluckteam-app-volunteer.vercel.app/. 
 
 Silakan buka tautan frontend tersebut di browser Anda untuk mulai menjelajahi aplikasi Migunani!
