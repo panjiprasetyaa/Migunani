@@ -4,7 +4,7 @@ Migunani adalah prototipe aplikasi *marketplace event volunteer* (relawan) yang 
 
 Proyek ini dibangun menggunakan arsitektur **Decoupled / Headless**, di mana Frontend dan Backend sepenuhnya terpisah dan saling berkomunikasi melalui RESTful API.
 
-## 🚀 Tech Stack (Teknologi yang Digunakan)
+## Tech Stack (Teknologi yang Digunakan)
 
 ### Frontend
 - **Framework:** React.js
@@ -19,7 +19,7 @@ Proyek ini dibangun menggunakan arsitektur **Decoupled / Headless**, di mana Fro
 
 ---
 
-## 🛠️ Cara Menjalankan Proyek Secara Lokal
+## Cara Menjalankan Proyek Secara Lokal
 
 Pastikan Anda sudah menginstal **PHP (v8+)**, **Composer**, dan **Node.js** di komputer Anda.
 
